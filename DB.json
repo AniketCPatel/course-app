@@ -1,0 +1,102 @@
+{
+  "courses": [
+    {
+      "id": 101,
+      "courseName": "Microsoft Power BI Certification Course",
+      "courseTrainer": "Sundar Pichai",
+      "category": "BI & Visualization",
+      "coursePrice": "9,999",
+      "courseImageUrl": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVzaW5lc3MlMjBpbnRlbGxpZ2VuY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 102,
+      "courseName": "DevOps Engineer Masters Program",
+      "courseTrainer": "Bill Gates",
+      "category": "Cloud Computing",
+      "coursePrice": "19,999",
+      "courseImageUrl": "https://images.unsplash.com/photo-1605745341112-85968b19335b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZG9ja2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 103,
+      "courseName": "Cloud Architect Masters Program",
+      "courseTrainer": "Rajesh Gopinathan",
+      "category": "Cloud Computing",
+      "coursePrice": "26,880",
+      "courseImageUrl": "https://plus.unsplash.com/premium_photo-1661758351472-52ed02e99496?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvdWQlMjBjb21wdXRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 104,
+      "courseName": "Cyber Security and Ethical Hacking Program",
+      "courseTrainer": "Narayan Murthy",
+      "category": "Cyber Security",
+      "coursePrice": "16,890",
+      "courseImageUrl": "https://plus.unsplash.com/premium_photo-1674669009418-2643aa58b11b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3liZXIlMjBzZWN1cml0eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 105,
+      "courseName": "Full Stack Web Developer Masters Program",
+      "courseTrainer": "Warren Buffet",
+      "category": "Web Development",
+      "coursePrice": "19,980",
+      "courseImageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2Vic2l0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": 1,
+      "fname": "Aniket",
+      "lname": "Patel",
+      "email": "aniket@yahoo.com",
+      "message": "blah blah blah.....",
+      "subject": "sdsdssdsdsdsds"
+    },
+    {
+      "id": 2,
+      "fname": "dsddsd",
+      "lname": "qwertyuiops",
+      "email": "sdssdsd@fgg.iuu",
+      "message": "sdsdsds4efd bgfdsdfgngfdffd",
+      "subject": "sdsdssdsdsdsds"
+    },
+    {
+      "id": 3,
+      "fname": "poiuytrewq",
+      "lname": "qwertyuiop",
+      "email": "mnbvcxz@mail.com",
+      "message": "qertyuiop lkjhgfdsa zxcvbm",
+      "subject": "test 1"
+    },
+    {
+      "id": 4,
+      "fname": "qwertyuiop",
+      "lname": "poiuytrewq",
+      "email": "mnbvcxz@mail.com",
+      "message": "qertyuiop lkjhgfdsa zxcvbm",
+      "subject": "test 2"
+    },
+    {
+      "id": 7,
+      "fname": "dfdfdfd",
+      "lname": "dfdfd",
+      "email": "dfdddf@hja.weji",
+      "subject": "sdsdsdss",
+      "message": "fdfdfdf"
+    },
+    {
+      "id": 8,
+      "fname": "qwerty",
+      "lname": "poiu",
+      "email": "lhdsa@dgh.eyw",
+      "subject": "WOW",
+      "message": "poiuytrewq asdfghjkl mbvcxz"
+    },
+    {
+      "id": 9,
+      "fname": "redux",
+      "lname": "faltu",
+      "email": "redux@org.com",
+      "subject": "testing chale",
+      "message": "jhdsjhdshs shishsdskjd shdjshdsjdhsjdsjhdsjsd"
+    }
+  ]
+}
