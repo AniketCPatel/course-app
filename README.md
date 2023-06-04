@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+====> for json: npm install -g json-server
+====> use npm or npx json-server --watch courses.json --port 3001
+
 ## Available Scripts
 
 In the project directory, you can run:
