@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ====> for json: npm install -g json-server
-====> use npm or npx json-server --watch courses.json --port 3001
+====> use npm or npx json-server --watch courses.json --port 4001
 
 ## Available Scripts
 
